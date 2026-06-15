@@ -26,12 +26,6 @@ No DLL overrides required. No additional tools needed.
 | `dxvk.conf` | `d3d9.forceSwapchainSize = 2560x1440` |
 | `launch.sh` | Example launcher |
 
-## Prerequisites
-
-- Linux with proprietary NVIDIA driver
-- Wine
-- DXVK installed in the game's Wine prefix
-
 ## Usage
 
 1. Copy `d3d9.dll` and `dxvk.conf` into the game directory (next to the
